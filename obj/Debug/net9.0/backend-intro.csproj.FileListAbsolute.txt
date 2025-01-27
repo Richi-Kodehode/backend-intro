@@ -12,3 +12,4 @@
 /Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.pdb
 /Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.genruntimeconfig.cache
 /Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/ref/backend-intro.dll
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.sourcelink.json
