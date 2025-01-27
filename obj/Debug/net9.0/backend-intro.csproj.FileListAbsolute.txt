@@ -1,0 +1,14 @@
+/Users/richardboge/Documents/Kodehode/backend-intro/bin/Debug/net9.0/backend-intro
+/Users/richardboge/Documents/Kodehode/backend-intro/bin/Debug/net9.0/backend-intro.deps.json
+/Users/richardboge/Documents/Kodehode/backend-intro/bin/Debug/net9.0/backend-intro.runtimeconfig.json
+/Users/richardboge/Documents/Kodehode/backend-intro/bin/Debug/net9.0/backend-intro.dll
+/Users/richardboge/Documents/Kodehode/backend-intro/bin/Debug/net9.0/backend-intro.pdb
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.AssemblyInfoInputs.cache
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.AssemblyInfo.cs
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.csproj.CoreCompileInputs.cache
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.dll
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/refint/backend-intro.dll
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.pdb
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/backend-intro.genruntimeconfig.cache
+/Users/richardboge/Documents/Kodehode/backend-intro/obj/Debug/net9.0/ref/backend-intro.dll
